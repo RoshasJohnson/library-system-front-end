@@ -12,5 +12,5 @@ function Genre() {
     </div>
   )
 }
-
-export default Genre
+ 
+export default Genre    
